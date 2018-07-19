@@ -1,7 +1,6 @@
 const express = require('express')
 const path = require('path')
-//set the port for local and remote access
-const PORT = process.env.PORT || 5002
+const PORT = process.env.PORT || 5003
 
 
 
